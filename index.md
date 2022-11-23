@@ -8,3 +8,7 @@
 MOVE HOLD-CLIENT-ID TO CLIENT-ID.
 SET SV-CHEATS-ENABLED TO TRUE.
 ```
+
+- [ ] Get client id
+- [ ] Turn cheats on
+- [ ] ???
